@@ -2,6 +2,7 @@
 
 int main()
 {
-    std::cout << 2 + 3 << std::endl;
+    int n; std::cin >> n;
+    std::cout << n << '\n';
     return 0;
 }
